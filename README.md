@@ -1,6 +1,6 @@
 - 👋 Hi
 - 👀 I’m interested in web-based programming
-- 📫 How to reach me ? , DM on twitter @privacypolicyyy
+- 📫 DM on twitter @privacypolicyyy
 
 <!---
 UntilTomorrow/UntilTomorrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
